@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Forty</title>
+    <link>https://LINWLI.github.io/categories/</link>
+    <description>Recent content in Categories on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="https://LINWLI.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://LINWLI.github.io/categories/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem</title>
+      <link>https://LINWLI.github.io/categories/lorem/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://LINWLI.github.io/categories/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo</title>
+      <link>https://LINWLI.github.io/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting</title>
+      <link>https://LINWLI.github.io/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>>
+      <title>干儿子第一次吃鸡</title>
+      <link>https://LINWLI.github.io/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>干儿子最喜欢的一张照片</title>
+      <link>https://LINWLI.github.io/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/ipsum/</guid>
+      <description>干儿子每天睡前都要看着它才能睡觉，还哭着说：“爸爸帮我把它打印成抱枕好不好，我要每天抱着它睡觉。”对于C华的审美我感到十分震惊，不过他的审美总算像个人了，也算是进步。</description>
+    </item>
+    
+    <item>
+      <title>干儿子最喜欢的一张照片</title>
+      <link>https://LINWLI.github.io/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/ipsum/</guid>
+      <description>干儿子每天睡前都要看着它才能睡觉，还哭着说：“爸爸帮我把它打印成抱枕好不好，我要每天抱着它睡觉。”对于C华的审美我感到十分震惊，不过他的审美总算像个人了，也算是进步。</description>
+    </item>
+    
+  </channel>
+</rss>

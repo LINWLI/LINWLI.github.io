@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forty</title>
+    <link>https://LINWLI.github.io/</link>
+    <description>Recent content on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 00:57:40 +0300</lastBuildDate>
+    
+	<atom:link href="https://LINWLI.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo-simpledoc-theme</title>
+      <link>https://LINWLI.github.io/hugo-simpledoc-theme/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>https://LINWLI.github.io/hugo-simpledoc-theme/</guid>
+      <description>Hugo Simpledoc Theme is a simple and clean documentation theme for Hugo. Also you may use it for building a FAQ-page or generating an online book (why not?). This theme is a very-slightly-modified Hugo port of great WPThemeDoc.
+Screenshot Features Original  Clean design One page Responsive Easely customizable  Added  Hugo!  Demo You see it in action here and now!</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://LINWLI.github.io/getting-started/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>https://LINWLI.github.io/getting-started/</guid>
+      <description>Installation  Install Hugo and create a new site. Install hugo simpledoc theme. Inside your new Hugo project run:  $ cd themes $ git clone https://github.com/aerohub/hugo-simpledoc-theme  Then take a look inside the exampleSite folder of this theme. You&amp;rsquo;ll find a file called config.toml and a folder archetypes. Copy them into the root folder of your Hugo site.
+Configuration Open just-copied config.toml and fill it with your data. Pay attention on top menu items.</description>
+    </item>
+    
+    <item>
+      <title>Writing Documentation</title>
+      <link>https://LINWLI.github.io/writing-documentation/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>https://LINWLI.github.io/writing-documentation/</guid>
+      <description>OK, all you need is just write!
+Run in the root of your project:
+hugo new my-first-doc-item.md  Then open the file with your favorite text editor and you will see something like this:
+--- title: &amp;quot;My First Doc Item&amp;quot; date: 2017-12-12T00:57:40+03:00 anchor: &amp;quot;my-first-doc-item&amp;quot; weight: ---  Write your doc chapter and give it a weight. You may organize your content as you like (even with folders) but All the docs are ranged by weight here!</description>
+    </item>
+    
+    <item>
+      <title>Serving and Building</title>
+      <link>https://LINWLI.github.io/serving-and-building/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>https://LINWLI.github.io/serving-and-building/</guid>
+      <description>Test your site In order to see your site in action, run Hugo&amp;rsquo;s built-in local server.
+$ hugo server -w  Now enter localhost:1313 in the address bar of your browser.
+Build your site Just run
+$ hugo  You&amp;rsquo;ll find your documentation files in public folder in the root of Hugo project.</description>
+    </item>
+    
+    <item>
+      <title>Credits and Thanks</title>
+      <link>https://LINWLI.github.io/credits-thanks-and-license/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>https://LINWLI.github.io/credits-thanks-and-license/</guid>
+      <description>Many thanks go to:
+ spf13 &amp;amp; Hugo Rich Tabor &amp;amp; original WPThemeDoc  </description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://LINWLI.github.io/license/</link>
+      <pubDate>Tue, 12 Dec 2017 01:01:13 +0300</pubDate>
+      
+      <guid>https://LINWLI.github.io/license/</guid>
+      <description>The MIT License (MIT)
+Copyright &amp;copy; 2017 Pavel Kanyshev
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>朱自清字</title>
+      <link>https://LINWLI.github.io/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>第一次吃橘子开心的样子</title>
+      <link>https://LINWLI.github.io/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>干儿子第一次吃鸡</title>
+      <link>https://LINWLI.github.io/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>干儿子最喜欢的一张照片</title>
+      <link>https://LINWLI.github.io/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/ipsum/</guid>
+      <description>干儿子每天睡前都要看着它才能睡觉，还哭着说：“爸爸帮我把它打印成抱枕好不好，我要每天抱着它睡觉。”对于C华的审美我感到十分震惊，不过他的审美总算像个人了，也算是进步。</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://LINWLI.github.io/blog/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>https://LINWLI.github.io/blog/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/blog/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://LINWLI.github.io/blog/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/blog/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://LINWLI.github.io/blog/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/blog/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://LINWLI.github.io/blog/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://LINWLI.github.io/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://LINWLI.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LINWLI.github.io/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://LINWLI.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LINWLI.github.io/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+  </channel>
+</rss>

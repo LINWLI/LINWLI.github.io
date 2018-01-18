@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活方式 on Forty</title>
+    <link>https://LINWLI.github.io/blogs/</link>
+    <description>Recent content in 生活方式 on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://LINWLI.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>朱自清字</title>
+      <link>https://LINWLI.github.io/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>第一次吃橘子开心的样子</title>
+      <link>https://LINWLI.github.io/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>干儿子第一次吃鸡</title>
+      <link>https://LINWLI.github.io/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>干儿子最喜欢的一张照片</title>
+      <link>https://LINWLI.github.io/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://LINWLI.github.io/blogs/ipsum/</guid>
+      <description>干儿子每天睡前都要看着它才能睡觉，还哭着说：“爸爸帮我把它打印成抱枕好不好，我要每天抱着它睡觉。”对于C华的审美我感到十分震惊，不过他的审美总算像个人了，也算是进步。</description>
+    </item>
+    
+  </channel>
+</rss>
